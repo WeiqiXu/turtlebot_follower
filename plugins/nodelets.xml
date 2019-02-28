@@ -1,0 +1,8 @@
+<!--change it to our own namespace and class-->
+<library path="lib/libturtlebot_follower">
+  <class name="turtlebot_follower/LongFollower" type="turtlebot_follower::LongFollower" base_class_type="nodelet::Nodelet">
+    <description>
+      The turtlebot people follower node.
+    </description>
+  </class>
+</library> 
